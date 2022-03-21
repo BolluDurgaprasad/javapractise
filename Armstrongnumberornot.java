@@ -1,5 +1,5 @@
 import java.utill.Scanner;
-public class armstrongornot {
+public class Armstrongnumberornot {
     public static void main(String[] args)
     {
         int num, number, temp, total = 0;
