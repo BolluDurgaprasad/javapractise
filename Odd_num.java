@@ -1,4 +1,4 @@
-class totalodd
+class Odd_num
 {
   public static void main(String[] args) 
   {
