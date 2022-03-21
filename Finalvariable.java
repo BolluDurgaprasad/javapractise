@@ -13,7 +13,7 @@ void display()
 System.out.println("edit");
 }
 }
-class finalvariable
+class Finalvariable
 {
 public static void main(String args[])
 {
