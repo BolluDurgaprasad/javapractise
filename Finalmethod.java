@@ -7,7 +7,7 @@ System.out.println("display");
 }
 }
 
-class finalmethod
+class Finalmethod
 {
 public static void main(String args[])
 {
