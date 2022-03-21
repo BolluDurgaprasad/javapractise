@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class greater
+class Greathernumber
 {
     public static void main(String args[])
     {
