@@ -13,7 +13,7 @@ void display()//cant do
 System.out.println("edit");
 }
 }
-class finalclass
+class Finalclass
 {
 public static void main(String args[])
 {
