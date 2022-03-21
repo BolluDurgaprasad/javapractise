@@ -1,5 +1,5 @@
 import java.util.*;
-public class sizeofnum{
+public class Sizeofnumberarray{
     public static void main(String[] args){
         int n,max;
         Scanner sc=new Scanner(System.in);
