@@ -1,4 +1,3 @@
-// Java program to display the alphabets (a to z) using while loop
 public class Alphabets {
     public static void main(String[] args) {
         char character;
