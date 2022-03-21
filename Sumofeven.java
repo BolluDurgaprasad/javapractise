@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class sumofeven
+class Sumofeven
 {
   public static void main(String[] args) 
   {
