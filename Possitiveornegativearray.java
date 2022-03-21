@@ -1,5 +1,5 @@
 import java.utill.Scanner;
-public class possitiveornegative{
+public class Possitiveornegativearray{
     public static void main(String[]args){
         int countp=0, countn=0, countz=0, i;
         int[] arr = new int[10];
