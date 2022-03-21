@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class vote
+class Eligiblevote
 {
   public static void main(String[] args) 
   {
