@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class markspercentage{
+public class Percentageofmarks{
     public static void main(String[]args){
         float percentage;
         float totalmarks;
