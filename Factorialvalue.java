@@ -1,4 +1,4 @@
-class maximum{
+class Factorialvalue{
     public static void main(String[]args){
         int n,f;
          Scanner sc=new Scanner(System.in);
