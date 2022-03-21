@@ -1,5 +1,5 @@
 // Java program to display the alphabets (a to z) using while loop
-public class uppercase {
+public class Alphabets {
     public static void main(String[] args) {
         char character;
         System.out.println("Upper case Alphabets Displayed \n");
