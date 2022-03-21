@@ -1,5 +1,5 @@
 import Shape.*;
-class main{
+class Mainpackage{
     public static void main(String[] args){
         Circle c=new Circle();
         c.draw();
