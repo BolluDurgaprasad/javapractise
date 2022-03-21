@@ -1,6 +1,6 @@
 
 import java.util.Scanner;
-class Address
+class Addressstudent
 {
     public static void main(String args[])
     {
