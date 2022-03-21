@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class notes
+class Amount
 {
     public static void main(String args[])
     {
