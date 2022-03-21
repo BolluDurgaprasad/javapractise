@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class sumofodd
+class Sumofoddnumber
 {
   public static void main(String[] args) 
   {
