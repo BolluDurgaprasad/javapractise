@@ -1,4 +1,4 @@
-public class arraybasic{
+public class Maxvaluearray{
     public static void main(String[] args){
        int n,max;
        System.out.println("enter size of an array");
