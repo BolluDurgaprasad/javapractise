@@ -1,4 +1,4 @@
-public class ASCII{
+public class Asiinumber{
     public static void main(String[]args)
     {
         char c = 'd';
