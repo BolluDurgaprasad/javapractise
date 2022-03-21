@@ -1,4 +1,4 @@
-class largestnumber{
+class Largestnumberarray{
     public static void main(String[]args){
         int[] a =new int[]{22,54,887,2,5};
         int max = a[0];
