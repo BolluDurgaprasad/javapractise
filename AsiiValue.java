@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class PrintAsiiValue
+public class AsiiValue
 {
     public static void main(String[] args){
         char ch1 = 'a';
