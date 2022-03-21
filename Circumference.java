@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class circumference
+public class Circumference
 {
 	public static void main(String[] args) {
 		int radius,circum;
