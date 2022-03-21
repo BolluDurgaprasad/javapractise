@@ -1,4 +1,4 @@
-class details
+class Mydetails
 {
     public static void main(String args[])
     {
