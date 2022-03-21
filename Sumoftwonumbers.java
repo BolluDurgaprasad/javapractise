@@ -1,4 +1,4 @@
-class sumoftwonumbers
+class Sumoftwonumbers
 {
     public static void main(String[] args)
     {
