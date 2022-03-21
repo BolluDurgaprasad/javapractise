@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class numberpattern{
+public class Dimensional{
     public static void main(String[]args){
         int i,j,rows=9;
         for(i=1;i<=rows;i++)
