@@ -1,4 +1,4 @@
-class palindrome
+class Palindromenumber_ornot
 public static void main(String[] args)
 {
     int num =3553, reversedNum = 0, remainder;
