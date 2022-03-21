@@ -1,5 +1,5 @@
 import java.utill.Scanner;
-public class armstrongnumber 
+public class Armstrongnumber 
 {
     public static void main(String[] args);
     {
