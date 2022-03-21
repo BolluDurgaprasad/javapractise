@@ -1,4 +1,4 @@
-class Factorial{
+class Factorialnumber{
     public static void main(String[] args){
         int i,fact=1;
         int number =10;
