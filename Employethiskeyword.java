@@ -31,7 +31,7 @@ return this.salary;
 }
 }
 
-class employe
+class Employethiskeyword
 {
 public static void main(String args[])
 {
