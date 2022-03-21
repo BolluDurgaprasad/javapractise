@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class vowel
+class Vowel
 {
     public static void main(String args[])
     {
