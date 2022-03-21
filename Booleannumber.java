@@ -1,4 +1,4 @@
-public class Boolean
+public class Booleannumber
 {
 	public static void main(String[] args) {
 		int num1=20;
