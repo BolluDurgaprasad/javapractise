@@ -1,5 +1,5 @@
 package Shape;
-public class Square
+public class Squarepackage
 {
     public void draw(){
         System.out.println("Square");
