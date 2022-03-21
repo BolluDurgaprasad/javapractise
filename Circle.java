@@ -1,5 +1,5 @@
 package Shape;
-public class circle
+public class Circle
 {
     public void draw(){
         System.out.println("Circle");
