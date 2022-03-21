@@ -1,5 +1,5 @@
 import java.util.Scanner;
-class sign number
+class Signofnumber
 {
     public static void main(String args[])
     {
